@@ -103,8 +103,8 @@ I believe my grade on this is a **32/30**
 - completed 100 comments (+ 2)
 - completed 500 comments (+ 2)
 - complete 1000 comments (+ 2)
-- created python file to upvote and downvote certain political figures (+ 2)
-  - using textblob sentiment analysis (+ 2)
+- Added lines 62 and 108 of bot.py in oprder to upvote and downvote certain political figures (+ 2)
+  - used textblob sentiment analysis (+ 2)
 - completed python file to create 200 submissions (+ 2)
 ### Credits I did not complete:
 - create an "army" of bots each with 500 valid comments (although I did create 5 bots, so it would make sense to maybe get one extra point here)
