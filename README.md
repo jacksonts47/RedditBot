@@ -91,7 +91,8 @@ valid_comments= 84
 ========================================
 ```
 
-The total valid_comments count is 537 + 218 + 228 + 205 + 84 = **1272**
+The total valid_comments count is 537 + 218 + 228 + 205 + 84 = **1272**    
+
 **1272 total valid comments**
 
 ## Grading
