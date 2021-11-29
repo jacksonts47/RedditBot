@@ -107,6 +107,6 @@ I believe my grade on this is a **32/30**
   - using textblob sentiment analysis (+ 2)
 - completed python file to create 200 submissions (+ 2)
 ### Credits I did not complete:
-- create an "army" of bots
+- create an "army" of bots each with 500 valid comments (although I did create 5 bots, so it would make sense to maybe get one extra point here)
 - make the bot reply to the most upvoted comments
 - use markovify to create my comments
