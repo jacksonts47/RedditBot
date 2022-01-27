@@ -91,22 +91,4 @@ valid_comments= 84
 ========================================
 ```
 
-The total valid_comments count is 537 + 218 + 228 + 205 + 84 = **1272**    
 
-**1272 total valid comments**
-
-## Grading
-I believe my grade on this is a **32/30**
-### This would given me credit for doing the following:
-- completed bot.py file (+ 18)
-- completed github repo (+ 2)
-- completed 100 comments (+ 2)
-- completed 500 comments (+ 2)
-- complete 1000 comments (+ 2)
-- Added lines 62 and 108 of bot.py in order to upvote and downvote certain political figures (+ 2)
-  - used textblob sentiment analysis (+ 2)
-- completed python file to create 200 submissions (+ 2)
-### Credits I did not complete:
-- create an "army" of bots each with 500 valid comments (although I did create 5 bots, so it would make sense to maybe get one extra point here)
-- make the bot reply to the most upvoted comments
-- use markovify to create my comments
